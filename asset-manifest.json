@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Social-Media-Post-App----React/static/css/main.ffaa59d1.css",
+    "main.js": "/Social-Media-Post-App----React/static/js/main.20847208.js",
+    "index.html": "/Social-Media-Post-App----React/index.html",
+    "main.ffaa59d1.css.map": "/Social-Media-Post-App----React/static/css/main.ffaa59d1.css.map",
+    "main.20847208.js.map": "/Social-Media-Post-App----React/static/js/main.20847208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffaa59d1.css",
+    "static/js/main.20847208.js"
+  ]
+}
